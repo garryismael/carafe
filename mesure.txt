@@ -1,0 +1,21 @@
+VIDE: self.mesure_x = Mesure(0, 0, 10, 0)
+        self.mesure_y = Mesure(0, 0, 10, 0)
+
+PLEINE: self.mesure_x = Mesure(0, 0, 10, 250)
+        self.mesure_y = Mesure(0, 0, 10, 250)
+--------------------------------------------
+MILIEU:
+        self.mesure_x = Mesure(250, 130, 200, 130)
+        self.mesure_y = Mesure(500, 130, 200, 130)
+
+PRESQUE-PLEINE
+        self.mesure_x = Mesure(250, 70, 200, 190)
+        self.mesure_y = Mesure(500, 70, 200, 190)
+
+PRESQUE-VIDE
+        self.mesure_x = Mesure(0, 0, 180, 80)
+        self.mesure_y = Mesure(0, 0, 180, 80)
+
+
+280
+

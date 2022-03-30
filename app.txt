@@ -1,0 +1,8 @@
+lOGIQUE DE PREDICAT
+On a les constantes suivantes: Jeannot et <i class="fa fa-american-sign-language-interpreting
+ON a aussi les predicats:
+
+Unaire: CHEVAL, CHIEN, LEVRIER, LAPIN
+Binaire: PLUS_VITE
+
+On a aussi les fbf suivantes:
